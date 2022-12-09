@@ -21,5 +21,6 @@ Install ReactDOM, which renders components to DOM.
 ```npm install react-dom```
 
 Boilerplate react app.
+
 ```npx create-react-app app-name```
 
